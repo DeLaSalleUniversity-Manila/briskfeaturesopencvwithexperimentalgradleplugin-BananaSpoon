@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\Brisk\app\build\intermediates\exploded-aar\Brisk\opencv\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3605f0f80d161064d3c0b68d768316de04c01a6d">
+        <dex dex="C:\Users\Christian\Desktop\Practical\Brisk\app\build\intermediates\pre-dexed\arm7\debug\classes-2c4c273fb49aa87312780bf333e5af4d24e1b535.jar" />
+    </item>
+
+</items>
